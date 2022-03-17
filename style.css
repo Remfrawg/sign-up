@@ -83,6 +83,10 @@ input, label, h3{
     margin-left: 3rem;
     width: 14rem;
 }
+label{
+    font-size: 16px;
+    color:#4d564f;
+}
 input{
     margin-bottom: 1rem;
 }
@@ -97,7 +101,7 @@ display: flex;
 }
 h3{
     margin-top: 5px;
-    font-weight: 500;
+    color:#4d564f;
 }
 #submit{
     margin-left: 0;
@@ -107,4 +111,5 @@ h3{
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 0.5rem;
+    color: #4d564f;
 }
